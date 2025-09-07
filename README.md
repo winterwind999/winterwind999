@@ -66,10 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=winterwind999.winterwind999&left_color=black&right_color=darkred&left_text=Profile%20Views"  />
-</div>
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=winterwind999&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=winterwind999&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ###
