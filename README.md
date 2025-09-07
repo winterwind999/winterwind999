@@ -1,4 +1,10 @@
+<br clear="both">
+
 <h1 align="center">Hello, I'm winterwind999 ❄️</h1>
+
+###
+
+<h3 align="center">A FULL STACK DEVELOPER 👨‍💻</h3>
 
 ###
 
@@ -62,6 +68,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=winterwind999.winterwind999&left_color=black&right_color=darkred&left_text=Profile%20Views"  />
 </div>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=winterwind999&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ###
 
@@ -69,13 +78,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=winterwind999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winterwind999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winterwind999/winterwind999/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winterwind999/winterwind999/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/winterwind999/winterwind999/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
