@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="60" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql" height="60" alt="postgresql logo"  />
   <img width="12" />
