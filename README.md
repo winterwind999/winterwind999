@@ -83,8 +83,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://jordanfaciol.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" height="15" alt="portfolio icon" /> 
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=FA023E&logoColor=&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/badge/Portfolio-%23FA023E.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
