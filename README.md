@@ -10,9 +10,9 @@
 
 <div>
   <p>Frontend</p>
-  <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
-  <img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="nextdotjs logo"  />
-  <img src="https://cdn.simpleicons.org/angular/de0031" height="30" alt="angular logo"  />
+  <img src="https://cdn.simpleicons.org/react" height="50" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="50" alt="nextdotjs logo"  />
+  <img src="https://cdn.simpleicons.org/angular/de0031" height="50" alt="angular logo"  />
   <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
   <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo"  />
   <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
