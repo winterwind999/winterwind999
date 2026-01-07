@@ -79,12 +79,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jordanfaciol/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white" height="30">
   </a>
   <a href="https://jordanfaciol.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=FA023E&logoColor=&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-    <img src="https://img.shields.io/badge/Portfolio-%23FA023E.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23FA023E.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
