@@ -79,10 +79,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jordanfaciol/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="15" alt="linkedin icon" /> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://jordanfaciol.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" height="15" alt="portfolio icon" /> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=FA023E&logoColor=&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" height="15" alt="portfolio icon" /> 
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=FA023E&logoColor=&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
 </div>
 
