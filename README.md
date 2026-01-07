@@ -9,7 +9,7 @@
 <div>
   <p>Frontend</p>
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
-  <img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="nextdotjs logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/fff" height="30" alt="nextdotjs logo"  />
   <img src="https://cdn.simpleicons.org/angular/de0031" height="30" alt="angular logo"  />
   <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
   <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo"  />
@@ -79,9 +79,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jordanfaciol/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="30" alt="linkedin icon" />
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://jordanfaciol.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" height="30" alt="portfolio icon" />
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=FA023E&logoColor=&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
 </div>
