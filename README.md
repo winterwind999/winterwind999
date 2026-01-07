@@ -8,7 +8,7 @@
 
 ###
 
-<div class="display: flex; gap: 3px">
+<div style="display: flex; gap: 3px;">
   <div>
     <p>Frontend</p>
     <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
@@ -43,7 +43,7 @@
   </div>
 </div>
 
-<div class="display: flex; gap: 3px">
+<div style="display: flex; gap: 3px;">
   <div>
     <p>DevOps & Cloud</p>
     <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
