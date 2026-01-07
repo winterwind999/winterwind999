@@ -8,40 +8,42 @@
 
 ###
 
-<div style="display: flex; gap: 3px;">
-  <div>
-    <p>Frontend</p>
-    <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
-    <img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="nextdotjs logo"  />
-    <img src="https://cdn.simpleicons.org/angular/de0031" height="30" alt="angular logo"  />
-    <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
-    <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo"  />
-    <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
-    <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
-    <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="30" alt="zustand logo"  />
-    <img src="https://cdn.simpleicons.org/tanstack/fff" height="30" alt="zustand logo"  />
-    <img src="https://cdn.simpleicons.org/axios" height="30" alt="axios logo"  />
-    <img src="https://cdn.simpleicons.org/redux" height="30" alt="redux logo"  />
-  </div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p>Frontend</p>
+      <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
+      <img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="nextdotjs logo"  />
+      <img src="https://cdn.simpleicons.org/angular/de0031" height="30" alt="angular logo"  />
+      <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
+      <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo"  />
+      <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
+      <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
+      <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="30" alt="zustand logo"  />
+      <img src="https://cdn.simpleicons.org/tanstack/fff" height="30" alt="zustand logo"  />
+      <img src="https://cdn.simpleicons.org/axios" height="30" alt="axios logo"  />
+      <img src="https://cdn.simpleicons.org/redux" height="30" alt="redux logo"  />
+    </td>
   
-  <div>
-    <p>Backend</p>
-    <img src="https://cdn.simpleicons.org/node.js" height="30" alt="nodejs logo"  />
-    <img src="https://cdn.simpleicons.org/express/fff" height="30" alt="express logo"  />
-    <img src="https://cdn.simpleicons.org/nestjs" height="30" alt="nestjs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    <img src="https://cdn.simpleicons.org/springboot" height="30" alt="springboot logo"  />
-    <img src="https://cdn.simpleicons.org/mongodb" height="30" alt="mongodb logo"  />
-    <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
-    <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="postgresql logo"  />
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/fff" height="30" alt="jsonwebtokens logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="30" alt="oauth logo"  />
-    <img src="https://img.icons8.com/?size=100&id=21893&format=png&color=ffffff" height="30" alt="restapi logo"  />
-    <img src="https://cdn.simpleicons.org/graphql" height="30" alt="graphql logo"  />
-    <img src="https://cdn.simpleicons.org/socketdotio/fff" height="30" alt="socketdotio logo"  />
-  </div>
-</div>
+    <td width="50%" valign="top">
+      <p>Backend</p>
+      <img src="https://cdn.simpleicons.org/node.js" height="30" alt="nodejs logo"  />
+      <img src="https://cdn.simpleicons.org/express/fff" height="30" alt="express logo"  />
+      <img src="https://cdn.simpleicons.org/nestjs" height="30" alt="nestjs logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+      <img src="https://cdn.simpleicons.org/springboot" height="30" alt="springboot logo"  />
+      <img src="https://cdn.simpleicons.org/mongodb" height="30" alt="mongodb logo"  />
+      <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
+      <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="postgresql logo"  />
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/fff" height="30" alt="jsonwebtokens logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="30" alt="oauth logo"  />
+      <img src="https://img.icons8.com/?size=100&id=21893&format=png&color=ffffff" height="30" alt="restapi logo"  />
+      <img src="https://cdn.simpleicons.org/graphql" height="30" alt="graphql logo"  />
+      <img src="https://cdn.simpleicons.org/socketdotio/fff" height="30" alt="socketdotio logo"  />
+    </td>
+  </tr>
+</table>
 
 <div style="display: flex; gap: 3px;">
   <div>
