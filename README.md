@@ -13,10 +13,10 @@
   <img src="https://cdn.simpleicons.org/react" height="50" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/nextdotjs" height="50" alt="nextdotjs logo"  />
   <img src="https://cdn.simpleicons.org/angular/de0031" height="50" alt="angular logo"  />
-  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
-  <img src="https://cdn.simpleicons.org/css" height="30" alt="css logo"  />
-  <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
-  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/html5" height="40" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/css" height="40" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/javascript" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript" height="40" alt="typescript logo"  />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="30" alt="zustand logo"  />
   <img src="https://cdn.simpleicons.org/tanstack/fff" height="30" alt="zustand logo"  />
