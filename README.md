@@ -8,7 +8,7 @@
 
 ###
 
-<div>
+<div align="center">
   <p>Frontend</p>
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/nextdotjs" height="30" alt="nextdotjs logo"  />
@@ -24,7 +24,7 @@
   <img src="https://cdn.simpleicons.org/redux" height="30" alt="redux logo"  />
 </div>
 
-<div>
+<div align="center">
   <p>Backend</p>
   <img src="https://cdn.simpleicons.org/node.js" height="30" alt="nodejs logo"  />
   <img src="https://cdn.simpleicons.org/express/fff" height="30" alt="express logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.simpleicons.org/socketdotio/fff" height="30" alt="socketdotio logo"  />
 </div>
 
-<div>
+<div align="center">
   <p>DevOps & Cloud</p>
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
   <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
@@ -51,7 +51,7 @@
   <img src="https://cdn.simpleicons.org/cloudinary" height="30" alt="cloudinary logo"  />
 </div>
 
-<div>
+<div align="center">
   <p>Developer Tools</p>
   <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
   <img src="https://cdn.simpleicons.org/github/fff" height="30" alt="github logo"  />
