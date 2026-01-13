@@ -57,6 +57,7 @@
   <img src="https://cdn.simpleicons.org/postman" height="30" alt="postman logo"  />
   <img src="https://cdn.simpleicons.org/jest" height="30" alt="jest logo"  />
   <img src="https://cdn.simpleicons.org/junit5" height="30" alt="junit5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
   <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
 </div>
 
