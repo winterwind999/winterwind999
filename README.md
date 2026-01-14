@@ -50,14 +50,21 @@
 </div>
 
 <div>
+  <p>Testing & Tooling</p>
+  <img src="https://cdn.simpleicons.org/jest" height="30" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/junit5" height="30" alt="junit5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
+  <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
+  <img src="https://cdn.simpleicons.org/sonarqubeforide" height="30" alt="sonarqubeforide logo"  />
+</div>
+
+<div>
   <p>Developer Tools</p>
   <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
   <img src="https://cdn.simpleicons.org/github/fff" height="30" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/intellijidea" height="30" alt="intellijidea logo"  />
   <img src="https://cdn.simpleicons.org/postman" height="30" alt="postman logo"  />
-  <img src="https://cdn.simpleicons.org/jest" height="30" alt="jest logo"  />
-  <img src="https://cdn.simpleicons.org/junit5" height="30" alt="junit5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
   <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
 </div>
 
