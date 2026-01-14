@@ -55,7 +55,7 @@
   <img src="https://cdn.simpleicons.org/junit5" height="30" alt="junit5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
   <img src="https://cdn.simpleicons.org/eslint" height="30" alt="eslint logo"  />
-  <img src="https://cdn.simpleicons.org/sonarqubeforide" height="30" alt="sonarqubeforide logo"  />
+  <img src="https://cdn.simpleicons.org/sonarqubeforserver" height="30" alt="sonarqubeforserver logo"  />
 </div>
 
 <div>
