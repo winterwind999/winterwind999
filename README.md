@@ -63,7 +63,7 @@
   <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
   <img src="https://cdn.simpleicons.org/github/fff" height="30" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img src="https://cdn.simpleicons.org/intellijidea" height="30" alt="intellijidea logo"  />
+  <img src="https://cdn.simpleicons.org/intellijidea/fff" height="30" alt="intellijidea logo"  />
   <img src="https://cdn.simpleicons.org/postman" height="30" alt="postman logo"  />
   <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
 </div>
