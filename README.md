@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hello, I'm winterwind999 ❄️</h2>
+<h2 align="center">Hello, Jordan 👋</h2>
 
 <h3 align="center">Software Engineer 👨‍💻</h3>
 
