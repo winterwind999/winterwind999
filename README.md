@@ -84,6 +84,8 @@
   <a href="https://jordanfaciol.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FA023E.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jordanfaciol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jordanfaciol?trk=profile-badge">Jordan Faciol</a></div>
+              
 </div>
 
 ###
