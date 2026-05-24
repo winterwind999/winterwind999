@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <br clear="both">
 
 <h2 align="center">Hello, I'm Jordan 👋</h2>
